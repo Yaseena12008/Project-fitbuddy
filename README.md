@@ -1,4 +1,4 @@
-# 🏋️ FitBuddy — AI Fitness Plan Generator
+# 🏋️ FitBuddy — AI Fitness Plan Generator   Created by Yaseen (Yaseena12008)
 
 > Your personalized 7-day workout companion, powered by Google Gemini AI.
 
